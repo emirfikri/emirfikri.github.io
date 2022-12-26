@@ -1,6 +1,6 @@
 {
-    "name": "astrotest",
-    "short_name": "astrotest",
+    "name": "etiqa",
+    "short_name": "etiqa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
